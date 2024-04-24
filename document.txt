@@ -1,0 +1,16 @@
+H,Arial,Red,12
+e,Arial,Red,12
+l,Arial,Red,12
+L,Georgia,Orange,15
+o,Calibri,Blue,14
+W,Calibri,Blue,14
+o,Verdana,Black,16
+r,Verdana,Black,16
+l,Courier New,Green,13
+d,Courier New,Green,13
+C,Courier New,Green,13
+S,Georgia,Orange,15
+5,Georgia,Orange,15
+8,Georgia,Orange,15
+0,Georgia,Orange,15
+0,Georgia,Orange,15
